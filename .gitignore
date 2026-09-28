@@ -1,0 +1,35 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+server/data/
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+coverage/
+npm-debug.log*
+
+# Android Studio / Gradle local state and outputs
+.gradle/
+**/.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
