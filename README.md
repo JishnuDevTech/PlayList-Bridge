@@ -4,8 +4,6 @@
 
 PlayList Bridge (Groove) plays audio files selected from your own devices. It does not use Spotify or another streaming catalog, and the audio itself stays on the device. Paired clients sync library details, playlists, and queue state through the included small sync service.
 
-> Repository description: A privacy-first local music player for Android and web, with playlists, queues, embedded metadata and fast library sync—your audio files stay on your devices.
-
 The product is branded Groove in the UI. It includes a responsive web player/PWA, a native Android project, and a small sync server for library metadata. It does not connect to Spotify or upload audio files.
 
 ## Web player
